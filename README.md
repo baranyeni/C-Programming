@@ -14,6 +14,8 @@ Finds the position of the smallest element in the subarray starting from the fir
 ### StructDataType.c
 Determines whether or not the components of planet_1 and planet_2 match
 
+### discriminant.c 
+This C code is a basic discriminant calculator.
 
 ### ArraySearch.c
 This is basic array search program written in C programming language, can be counted as exercise work.
