@@ -21,3 +21,12 @@ This C code is a basic discriminant calculator.
 This is basic array search program written in C programming language, can be counted as exercise work.
 
 Searches for target item in first n elements of array arr Returns index of target or NOT_FOUND Pre: target and first n elements of array arr are defined and n>=0
+
+### sinCalc.c
+This C code is a basic sinus calculator.
+
+### rectArea.c
+This C code is a basic area rectangle calculator.
+
+### LetterGradeCalculator.c
+This C code prints out the students letter note regarding the number of points he/she have got.
